@@ -8,6 +8,5 @@ Computer vision is an area of computer science devoted to the extraction and pro
 2. Region of Interest Selection
 3. Hough Transform Line Detection
 
-https://www.youtube.com/watch?v=hSjBazKT-L0
 
 [![Watch the video](http://i3.ytimg.com/vi/hSjBazKT-L0/maxresdefault.jpg)](https://www.youtube.com/watch?v=hSjBazKT-L0)
