@@ -9,3 +9,7 @@ Computer vision is an area of computer science devoted to the extraction and pro
 3. Hough Transform Line Detection
 
 https://www.youtube.com/watch?v=hSjBazKT-L0
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hSjBazKT-L0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
